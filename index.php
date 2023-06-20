@@ -1,5 +1,4 @@
 <?php
 
-echo "Hello <strong>Wolrd</strong>!!!";
-
+echo "Olá mundo!"
 ?>
